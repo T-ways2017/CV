@@ -1,0 +1,63 @@
+ .navbar{
+     background-color: #e7e7f0 !important;
+     text-transform: uppercase;
+
+ }
+ #navbar-collapse1 ul li a{
+     text-transform: uppercase;
+ }
+ #navbar-collapse1 ul li a:hover{
+     text-transform:capitalize;
+     font-style: oblique;
+     text-decoration-style: double;
+     background-color: rgba(229, 115, 38, 0.53);
+     font-size: 1.2em;
+     border-radius: 2px;
+
+ }
+ /********************/
+ /*****Header*****/
+ /************/
+ #header{
+     width: 100%;
+     padding: 30px 0 30px;
+     margin-top: 53px;
+     height: 420px;
+     background-color: rgba(162, 219, 178, 0.65);
+     /*
+     background-image: url("/media/images/graphic.png");
+     background-repeat: no-repeat;
+     background-position: center;
+     */
+ }
+ #logo img{
+     width: 45px;
+     height: 49px;
+     margin-top: -15px;
+      }
+ /* logo in the head*/
+ .logo-head{
+     width: 177px;
+     height: 151px;
+ }
+ /*img weddesign in the head*/
+ .webdes-img{
+
+     height: 266px;
+     width: 520px;
+     margin: 11px;
+ }
+ .champHead1{
+     margin-top: 12px;
+ }
+ .champHead1 button a{
+     color: #ffffff;
+     font-family: "Comic Sans MS";
+     text-decoration: none;
+ }
+ /**********************/
+ /*****Small media******/
+ /**********************/
+ @media(max-width: 768px) {
+
+ }
